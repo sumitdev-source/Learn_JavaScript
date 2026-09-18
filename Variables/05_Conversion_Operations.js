@@ -1,3 +1,4 @@
+//it is also known as type coercion, where we convert one data type into another datatype.
 // now we convert string into number
 //1. When score variable is integer;
  /* 
